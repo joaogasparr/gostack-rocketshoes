@@ -64,6 +64,9 @@ $> cd ./ios/ && pod install && cd ..
 $> react-native run-ios or yarn ios
 
 ```
+### Resultado
+
+<img src=".github/demo.gif" height="400">
 
 ---
 
